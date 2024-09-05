@@ -1,4 +1,5 @@
 #  Construction Site Safety Monitoring Using YOLOv8 
+![image](https://github.com/VishnuRNair31/My_DataScience_Projects/blob/main/Construction%20Site%20Safety%20Monitoring%20Using%20YOLOV8/image.jpg?raw=true)
 This project aims to enhance workplace safety on construction sites by using a deep learning model to monitor workers and ensure compliance with Personal Protective Equipment (PPE) regulations. The system leverages the YOLOv8 object detection model to identify individuals and detect whether they are wearing safety gear such as helmets and vests in real-time. This ensures a proactive approach to safety by providing instant feedback through sound warnings when violations are detected.
 
 ## Features
